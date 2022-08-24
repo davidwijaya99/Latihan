@@ -1,0 +1,14 @@
+{
+  {
+    "color":"red",
+    "hex":"#FF00"
+  },
+  {
+    "color":"black",
+    "hex":"#000000"
+  },
+  {
+    "color":"white",
+    "hex":"#FFFFFF"
+  }
+}
